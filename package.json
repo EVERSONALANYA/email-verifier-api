@@ -1,0 +1,9 @@
+{
+  "description": "API Serverless para verificación de registros MX.",
+  "main": "api/verify.js",
+  "name": "email-verifier-api",
+  "scripts": {
+    "start": "node api/verify.js"
+  },
+  "version": "1.0.0"
+}
